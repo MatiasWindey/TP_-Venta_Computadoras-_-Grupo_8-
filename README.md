@@ -32,19 +32,16 @@ Funcionalidades previstas
 Gestión de componentes:
 
 Alta de componentes: permite registrar nuevos productos en el sistema (por ejemplo, una nueva placa madre o procesador).
-
 Baja de componentes: permite eliminar productos que ya no se venden o están discontinuados.
 
 Asesoramiento automatizado:
 
 El sistema analiza las elecciones del usuario y recomienda componentes compatibles y óptimos según su uso (gaming, diseño, oficina, etc.).
-
 Permite guardar configuraciones creadas por el cliente y compararlas entre sí.
 
 Usuario :
 
 Alta de clientes: registro de nuevos usuarios con sus datos personales y preferencias.
-
 Baja de cuenta: eliminación de usuarios inactivos o que soliciten la baja.
 
 Reportes :
