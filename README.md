@@ -27,21 +27,21 @@ Facilitar la gestión de los productos ofrecidos (componentes, precios, stock) m
 Generar reportes y estadísticas sobre tendencias de compra y las configuraciones más solicitadas por los usuarios.
 
 
-Funcionalidades previstas
+Funcionalidades previstas 
 
-A. Gestión de componentes
+Gestión de componentes:
 
 Alta de componentes: permite registrar nuevos productos en el sistema (por ejemplo, una nueva placa madre o procesador).
 
 Baja de componentes: permite eliminar productos que ya no se venden o están discontinuados.
 
-B. Asesoramiento automatizado
+Asesoramiento automatizado:
 
 El sistema analiza las elecciones del usuario y recomienda componentes compatibles y óptimos según su uso (gaming, diseño, oficina, etc.).
 
 Permite guardar configuraciones creadas por el cliente y compararlas entre sí.
 
-C. Usuario
+Usuario :
 
 Alta de clientes: registro de nuevos usuarios con sus datos personales y preferencias.
 
