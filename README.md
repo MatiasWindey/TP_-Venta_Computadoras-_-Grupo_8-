@@ -20,6 +20,9 @@ Las principales entidades del sistema serán:
 Objetivos y funcionalidades previstas.
 
 Brindar una herramienta que asista al usuario en la selección y armado de su computadora personal, recomendando componentes  según el uso y presupuesto.
+
 Optimizar la experiencia de compra, reduciendo errores en la elección de hardware incompatible , mediante validaciones automáticas y sugerencias personalizadas.
+
 Facilitar la gestión de los productos ofrecidos (componentes, precios, stock) mediante un sistema que permita altas, bajas y modificaciones.
+
 Generar reportes y estadísticas sobre tendencias de compra y las configuraciones más solicitadas por los usuarios.
