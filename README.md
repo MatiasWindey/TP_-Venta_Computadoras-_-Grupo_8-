@@ -50,4 +50,5 @@ Reporte de configuraciones más populares: Qué combinaciones de componentes son
 
 Reporte de ventas : los productos más vendidos 
 
-Reporte de satisfacción del usuario: permite analizar la valoración de los clientes sobre las recomendaciones
+Reporte de satisfacción del usuario: permite analizar la valoración de los clientes sobre las recomendaciones automaticas
+
