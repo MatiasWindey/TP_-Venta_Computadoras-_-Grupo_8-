@@ -1,6 +1,6 @@
 # TP_-Venta_Computadoras-_-Grupo_8-
 
-                                                       Descripción breve del sistema
+Descripción breve del sistema
  
 Permitirá al cliente:
 Configurar su PC seleccionando componentes (procesador, placa madre, memoria RAM, almacenamiento, placa de video, fuente, gabinete, etc.).
@@ -8,7 +8,7 @@ Recibir recomendaciones automáticas de compatibilidad y rendimiento según el u
 Obtener sugerencias de armado óptimo según su presupuesto disponible .
 Guardar configuraciones, comparar opciones y acceder a la compra directa.
 
-                                                Las principales entidades del sistema serán:
+Las principales entidades del sistema serán:
 
 * Cliente (datos personales, preferencias, historial de configuraciones)
 * Componente (tipo, marca, modelo, precio, compatibilidad)
@@ -16,7 +16,7 @@ Guardar configuraciones, comparar opciones y acceder a la compra directa.
 * Categoría de uso (gaming, diseño 3D, oficina, etc.)
 * Presupuesto (rango de precios definido por el cliente)
 
-                                                     Objetivos y funcionalidades previstas.
+Objetivos y funcionalidades previstas.
 
 Brindar una herramienta que asista al usuario en la selección y armado de su computadora personal, recomendando componentes  según el uso y presupuesto.
 
@@ -27,7 +27,7 @@ Facilitar la gestión de los productos ofrecidos (componentes, precios, stock) m
 Generar reportes y estadísticas sobre tendencias de compra y las configuraciones más solicitadas por los usuarios.
 
 
-                                                            Funcionalidades previstas
+Funcionalidades previstas
 
 A. Gestión de componentes
 
@@ -47,7 +47,7 @@ Alta de clientes: registro de nuevos usuarios con sus datos personales y prefere
 
 Baja de cuenta: eliminación de usuarios inactivos o que soliciten la baja.
 
-                                                                    Reportes :
+Reportes :
 
 Reporte de configuraciones más populares: Qué combinaciones de componentes son las más elegidas por los usuarios, segun su uso (gaming, oficina, diseño, etc.).
 
