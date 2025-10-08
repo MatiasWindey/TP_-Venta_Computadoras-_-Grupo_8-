@@ -12,11 +12,12 @@ Guardar configuraciones, comparar opciones y acceder a la compra directa.
 
 Las principales entidades del sistema serán:
 
+* Administrador
 * Cliente (datos personales, preferencias, historial de configuraciones)
 * Componente (tipo, marca, modelo, precio, compatibilidad)
 * Configuración PC (selección de componentes realizada por el usuario)
-* Categoría de uso (gaming, diseño 3D, oficina, etc.)
-* Presupuesto (rango de precios definido por el cliente)
+* Producto
+* Pedido
 
 Objetivos y funcionalidades previstas.
 
@@ -38,7 +39,7 @@ Asesoramiento automatizado:
 El sistema analiza las elecciones del usuario y recomienda componentes compatibles y óptimos según su uso (gaming, diseño, oficina, etc.).
 Permite guardar configuraciones creadas por el cliente y compararlas entre sí.
 
-Usuario :
+Cliente :
 
 Alta de clientes: registro de nuevos usuarios con sus datos personales y preferencias.
 Baja de cuenta: eliminación de usuarios inactivos o que soliciten la baja.
