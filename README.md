@@ -1,5 +1,7 @@
 # TP_-Venta_Computadoras-_-Grupo_8-
 [Diagrama](https://lucid.app/lucidchart/31729690-3bec-41c9-a25a-7b269af0ed83/edit?viewport_loc=75%2C-2125%2C3451%2C1576%2C0_0&invitationId=inv_db0c5e98-ec98-45fd-b0b6-6764cef11b83)
+
+
 Descripción breve del sistema
  
 Permitirá al cliente:
