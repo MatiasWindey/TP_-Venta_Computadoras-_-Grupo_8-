@@ -1,5 +1,5 @@
 # TP_-Venta_Computadoras-_-Grupo_8-
-
+[Diagrama](https://lucid.app/lucidchart/31729690-3bec-41c9-a25a-7b269af0ed83/edit?viewport_loc=75%2C-2125%2C3451%2C1576%2C0_0&invitationId=inv_db0c5e98-ec98-45fd-b0b6-6764cef11b83)
 Descripción breve del sistema
  
 Permitirá al cliente:
@@ -24,9 +24,6 @@ Optimizar la experiencia de compra, reduciendo errores en la elección de hardwa
 
 Facilitar la gestión de los productos ofrecidos (componentes, precios, stock) mediante un sistema que permita altas, bajas y modificaciones.
 
-Generar reportes y estadísticas sobre tendencias de compra y las configuraciones más solicitadas por los usuarios.         <==== X
-
-
 Funcionalidades previstas 
 
 Gestión de componentes:
@@ -46,9 +43,8 @@ Baja de cuenta: eliminación de usuarios inactivos o que soliciten la baja.
 
 Reportes :
 
-Reporte de configuraciones más populares: Qué combinaciones de componentes son las más elegidas por los usuarios, segun su uso (gaming, oficina, diseño, etc.).  <===== X
-
 Reporte de ventas : los productos más vendidos 
 
-Reporte de satisfacción del usuario: permite analizar la valoración de los clientes  <===== X
+Reporte de satisfacción del usuario: permite analizar la valoración de los clientes 
+
 
