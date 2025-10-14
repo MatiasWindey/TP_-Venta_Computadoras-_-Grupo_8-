@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriespedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriespedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriesconfiguracion_pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriesconfiguracion_pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriescomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriescomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriesadminastrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriesadminastrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriesproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriesproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\configuracion_pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\configuracion_pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\source\\repos\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\data\\aplicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\data\\aplicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +62,164 @@
       "DocumentGroups": [
         {
           "DockedWidth": 391,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Class1.cs",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Class1.cs",
-              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Class1.cs",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "RepositoriesProducto.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesProducto.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesProducto.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesProducto.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T17:32:07.383Z",
+              "WhenOpened": "2025-10-14T19:07:21.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoriesPedido.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesPedido.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesPedido.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesPedido.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:07:05.765Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoriesConfiguracion_PC.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesConfiguracion_PC.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesConfiguracion_PC.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesConfiguracion_PC.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesConfiguracion_PC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:06:49.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoriesComponente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:06:28.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoriesCliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:05:54.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoriesAdminastrador.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesAdminastrador.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesAdminastrador.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesAdminastrador.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesAdminastrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T19:05:35.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AplicationDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:40:11.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Pedido.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Pedido.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Pedido.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Pedido.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:37:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Producto.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Producto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:37:11.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuracion_PC.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Configuracion_PC.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Configuracion_PC.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Configuracion_PC.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Configuracion_PC.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:36:56.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Componente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:36:34.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:36:16.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Administrador.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Administrador.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Administrador.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:32:07.383Z"
             }
           ]
         }

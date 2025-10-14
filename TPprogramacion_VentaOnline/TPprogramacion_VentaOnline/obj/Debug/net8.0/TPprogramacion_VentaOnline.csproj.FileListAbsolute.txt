@@ -1,0 +1,14 @@
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.AssemblyInfo.cs
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\bin\Debug\net8.0\TPprogramacion_VentaOnline.deps.json
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\bin\Debug\net8.0\TPprogramacion_VentaOnline.runtimeconfig.json
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\bin\Debug\net8.0\TPprogramacion_VentaOnline.dll
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\bin\Debug\net8.0\TPprogramacion_VentaOnline.pdb
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.dll
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\refint\TPprogramacion_VentaOnline.dll
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.pdb
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\TPprogramacion_VentaOnline.genruntimeconfig.cache
+C:\Users\tomas\source\repos\TPprogramacion_VentaOnline\TPprogramacion_VentaOnline\obj\Debug\net8.0\ref\TPprogramacion_VentaOnline.dll

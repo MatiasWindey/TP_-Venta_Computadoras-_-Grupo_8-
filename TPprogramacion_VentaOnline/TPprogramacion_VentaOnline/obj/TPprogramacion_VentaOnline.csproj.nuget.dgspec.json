@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj": {}
+    "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj": {
+    "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
+        "projectUniqueName": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
         "projectName": "TPprogramacion_VentaOnline",
-        "projectPath": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
+        "projectPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
         "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomas\\source\\repos\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\obj\\",
+        "outputPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
