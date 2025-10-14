@@ -6,9 +6,8 @@ Descripción breve del sistema
  
 Permitirá al cliente:
 Configurar su PC seleccionando componentes (procesador, placa madre, memoria RAM, almacenamiento, placa de video, fuente, gabinete, etc.).
-Recibir recomendaciones automáticas de compatibilidad y rendimiento según el uso previsto (gaming, diseño, edición, etc.).
-Obtener sugerencias de armado óptimo según su presupuesto disponible .
-Guardar configuraciones, comparar opciones y acceder a la compra directa.
+Obtener sugerencias de armado óptimo.
+comparar opciones y acceder a la compra directa.
 
 Las principales entidades del sistema serán:
 
@@ -21,9 +20,9 @@ Las principales entidades del sistema serán:
 
 Objetivos y funcionalidades previstas.
 
-Brindar una herramienta que asista al usuario en la selección y armado de su computadora personal, recomendando componentes  según el uso y presupuesto.
+Brindar una herramienta que asista al usuario en la selección y armado de su computadora personal.
 
-Optimizar la experiencia de compra, reduciendo errores en la elección de hardware incompatible , mediante validaciones automáticas y sugerencias personalizadas.
+Optimizar la experiencia de compra, reduciendo errores en la elección de hardware incompatible , mediante validaciones automáticas.
 
 Facilitar la gestión de los productos ofrecidos (componentes, precios, stock) mediante un sistema que permita altas, bajas y modificaciones.
 
@@ -33,16 +32,12 @@ Gestión de componentes:
 
 Alta de componentes: permite registrar nuevos productos en el sistema (por ejemplo, una nueva placa madre o procesador).
 Baja de componentes: permite eliminar productos que ya no se venden o están discontinuados.
-
-Asesoramiento automatizado:
-
-El sistema analiza las elecciones del usuario y recomienda componentes compatibles y óptimos según su uso (gaming, diseño, oficina, etc.).
-Permite guardar configuraciones creadas por el cliente y compararlas entre sí.
+Modificacion de componentes : Cambiar precio 
 
 Cliente :
 
 Alta de clientes: registro de nuevos usuarios con sus datos personales y preferencias.
-Baja de cuenta: eliminación de usuarios inactivos o que soliciten la baja.
+Modificacion de clientes : modificacion de datos personales
 
 Reportes :
 
