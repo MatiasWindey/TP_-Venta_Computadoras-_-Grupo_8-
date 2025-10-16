@@ -13,7 +13,7 @@ Las principales entidades del sistema serán:
 
 * Administrador
 * Cliente (datos personales, preferencias, historial de configuraciones)
-* Componente (tipo, marca, modelo, precio, compatibilidad)
+* Componente (tipo, marca, modelo, precio)
 * Configuración PC (selección de componentes realizada por el usuario)
 * Producto
 * Pedido
