@@ -13,17 +13,15 @@ namespace TPprogramacion_VentaOnline.Modelo
 
         public string Nombre { get; set; }
 
-        public string Apellido { get; set; }
-
         public string Correo { get; set; }
 
         public string Contrasenia { get; set; }
+
         
-        public Cliente(int id, string nombre, string apellido, string correo, string contrasenia)
+        public Cliente(int id, string nombre, string correo, string contrasenia)
         {
             this.Id = id;
             this.Nombre = nombre;
-            this.Apellido = apellido;
             this.Correo = correo;
             this.Contrasenia = contrasenia;
         }

@@ -65,3 +65,6 @@ C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPpr
 C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\bin\Debug\net8.0-windows\TPprogramacion_VentaOnline.pdb
 C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.csproj.AssemblyReference.cache
 C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaO.EEF6301B.Up2Date
+C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.ABM_cliente.Alta_Usuario.CrearCuenta_usu.resources
+C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.ABM_cliente.Alta_Usuario.InicioSesion_usu.resources
+C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario.Cuenta_usu.resources

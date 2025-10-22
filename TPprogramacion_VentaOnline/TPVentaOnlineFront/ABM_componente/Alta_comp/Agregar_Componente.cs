@@ -35,27 +35,27 @@ namespace TPVentaOnlineFront
             this.Hide();
         }
         private void button1_Click(object sender, EventArgs e)
-        {
-            
+        { 
             string tipo = comboBox1.SelectedItem.ToString();
             string marca = textBox2.Text;
             string modelo = textBox3.Text;
             float precio = float.Parse(textBox4.Text);
             int stock = int.Parse(textBox5.Text);
-                Componente Nuevocomponente = new Componente(tipo, marca, modelo, precio, stock);
+            Componente Nuevocomponente = new Componente(tipo, marca, modelo, precio, stock);
 
 
-                RepositoriesComponente.AgregarComponente(Nuevocomponente);
+            RepositoriesComponente.AgregarComponente(Nuevocomponente);
 
-                MessageBox.Show("Componente agregado con exito");
-            
-           
+            MessageBox.Show("Componente agregado con exito");
+
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
+        
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
@@ -76,6 +76,5 @@ namespace TPVentaOnlineFront
         }
 
        
-        
     }
 }

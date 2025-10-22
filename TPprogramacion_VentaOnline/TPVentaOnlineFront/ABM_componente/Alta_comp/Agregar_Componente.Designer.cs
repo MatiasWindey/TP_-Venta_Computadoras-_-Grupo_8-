@@ -45,7 +45,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(200, 92);
+            label1.Location = new Point(200, 88);
             label1.Name = "label1";
             label1.Size = new Size(129, 20);
             label1.TabIndex = 1;
@@ -80,7 +80,7 @@
             // 
             // textBox3
             // 
-            textBox3.Location = new Point(335, 176);
+            textBox3.Location = new Point(335, 180);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(229, 27);
             textBox3.TabIndex = 6;
@@ -135,7 +135,7 @@
             // 
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "Procesador ", "PlacaBase ", "MemoriaRAM", "Almacenamiento ", "TarjetaGrafica", "FuentePoder ", "Gabinete " });
-            comboBox1.Location = new Point(335, 92);
+            comboBox1.Location = new Point(335, 88);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(229, 28);
             comboBox1.TabIndex = 12;

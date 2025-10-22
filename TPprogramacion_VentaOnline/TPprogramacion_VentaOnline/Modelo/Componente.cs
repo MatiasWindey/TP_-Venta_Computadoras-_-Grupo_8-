@@ -10,6 +10,7 @@ namespace TPprogramacion_VentaOnline.Modelo
     public class Componente
     {
         [Key]
+        public int Id { get; set; }
         public string Tipo { get; set; }
         public string Marca { get; set; }
         public string Modelo { get; set; }
@@ -17,7 +18,7 @@ namespace TPprogramacion_VentaOnline.Modelo
         public int Stock { get; set; }
         public Componente(string tipo,string marca,string modelo,float precio,int Stock)
         {
-            
+           
             this.Tipo = tipo;
             this.Marca = marca;
             this.Modelo = modelo;
