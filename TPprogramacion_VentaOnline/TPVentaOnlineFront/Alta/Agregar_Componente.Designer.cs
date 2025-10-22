@@ -28,26 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
             label4 = new Label();
-            textBox2 = new TextBox();
             textBox3 = new TextBox();
             textBox4 = new TextBox();
             textBox5 = new TextBox();
             label5 = new Label();
             button1 = new Button();
             button2 = new Button();
+            comboBox1 = new ComboBox();
+            textBox2 = new TextBox();
             SuspendLayout();
-            // 
-            // textBox1
-            // 
-            textBox1.Location = new Point(335, 85);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(229, 27);
-            textBox1.TabIndex = 0;
             // 
             // label1
             // 
@@ -85,19 +78,13 @@
             label4.TabIndex = 4;
             label4.Text = "Precio";
             // 
-            // textBox2
-            // 
-            textBox2.Location = new Point(335, 132);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(229, 27);
-            textBox2.TabIndex = 5;
-            // 
             // textBox3
             // 
             textBox3.Location = new Point(335, 176);
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(229, 27);
             textBox3.TabIndex = 6;
+            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // textBox4
             // 
@@ -105,6 +92,7 @@
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(229, 27);
             textBox4.TabIndex = 7;
+            textBox4.TextChanged += textBox4_TextChanged;
             // 
             // textBox5
             // 
@@ -112,6 +100,7 @@
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(229, 27);
             textBox5.TabIndex = 8;
+            textBox5.TextChanged += textBox5_TextChanged;
             // 
             // label5
             // 
@@ -130,6 +119,7 @@
             button1.TabIndex = 10;
             button1.Text = "Agregar";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -141,23 +131,41 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "Procesador ", "PlacaBase ", "MemoriaRAM", "Almacenamiento ", "TarjetaGrafica", "FuentePoder ", "Gabinete " });
+            comboBox1.Location = new Point(335, 92);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(229, 28);
+            comboBox1.TabIndex = 12;
+            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            // 
+            // textBox2
+            // 
+            textBox2.Location = new Point(335, 136);
+            textBox2.Name = "textBox2";
+            textBox2.Size = new Size(229, 27);
+            textBox2.TabIndex = 13;
+            textBox2.TextChanged += textBox2_TextChanged;
+            // 
             // Agregar_Componente
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox2);
+            Controls.Add(comboBox1);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(label5);
             Controls.Add(textBox5);
             Controls.Add(textBox4);
             Controls.Add(textBox3);
-            Controls.Add(textBox2);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Controls.Add(textBox1);
             Name = "Agregar_Componente";
             Text = "Agregar_Componente";
             ResumeLayout(false);
@@ -165,18 +173,17 @@
         }
 
         #endregion
-
-        private TextBox textBox1;
         private Label label1;
         private Label label2;
         private Label label3;
         private Label label4;
-        private TextBox textBox2;
         private TextBox textBox3;
         private TextBox textBox4;
         private TextBox textBox5;
         private Label label5;
         private Button button1;
         private Button button2;
+        private ComboBox comboBox1;
+        private TextBox textBox2;
     }
 }

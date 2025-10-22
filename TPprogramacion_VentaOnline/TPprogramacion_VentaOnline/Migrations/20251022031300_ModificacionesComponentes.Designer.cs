@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TPprogramacion_VentaOnline.Data;
 
@@ -10,9 +11,11 @@ using TPprogramacion_VentaOnline.Data;
 namespace TPprogramacion_VentaOnline.Migrations
 {
     [DbContext(typeof(AplicationDbContex))]
-    partial class AplicationDbContexModelSnapshot : ModelSnapshot
+    [Migration("20251022031300_ModificacionesComponentes")]
+    partial class ModificacionesComponentes
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
