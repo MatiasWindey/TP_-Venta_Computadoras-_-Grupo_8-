@@ -36,6 +36,7 @@
             checkBox5 = new CheckBox();
             checkBox1 = new CheckBox();
             label3 = new Label();
+            button2 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -116,11 +117,22 @@
             label3.TabIndex = 10;
             label3.Text = "Valorenos en Estrellas :";
             // 
+            // button2
+            // 
+            button2.Location = new Point(12, 409);
+            button2.Name = "button2";
+            button2.Size = new Size(94, 29);
+            button2.TabIndex = 11;
+            button2.Text = "Volver";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Puntuacion_Pagina
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
             Controls.Add(label3);
             Controls.Add(checkBox1);
             Controls.Add(checkBox5);
@@ -146,5 +158,6 @@
         private CheckBox checkBox5;
         private CheckBox checkBox1;
         private Label label3;
+        private Button button2;
     }
 }

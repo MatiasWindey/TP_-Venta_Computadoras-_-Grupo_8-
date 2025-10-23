@@ -31,5 +31,14 @@
     <Compile Update="ABM_componente\Modificacion_comp\Modificacion_Componente.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Inicio_menu\Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteComponentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes\ReporteValoracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

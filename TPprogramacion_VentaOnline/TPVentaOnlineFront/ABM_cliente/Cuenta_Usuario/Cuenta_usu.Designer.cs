@@ -37,6 +37,7 @@
             label5 = new Label();
             button3 = new Button();
             label6 = new Label();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -121,11 +122,22 @@
             label6.TabIndex = 11;
             label6.Text = "Puntuanos";
             // 
+            // button4
+            // 
+            button4.Location = new Point(12, 409);
+            button4.Name = "button4";
+            button4.Size = new Size(94, 29);
+            button4.TabIndex = 12;
+            button4.Text = "Volver";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // Cuenta_usu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button4);
             Controls.Add(label6);
             Controls.Add(button3);
             Controls.Add(label5);
@@ -153,5 +165,6 @@
         private Label label5;
         private Button button3;
         private Label label6;
+        private Button button4;
     }
 }

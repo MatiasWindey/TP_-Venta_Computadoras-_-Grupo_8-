@@ -114,7 +114,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Baja_Componente";
-            Text = "Baja_Componente";
+            Text = " ";
             Load += Baja_Componente_Load;
             ResumeLayout(false);
             PerformLayout();

@@ -40,5 +40,14 @@ namespace TPVentaOnlineFront
 
             this.Hide();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Inicio menu = new Inicio();
+
+            menu.Show();
+
+            this.Hide();
+        }
     }
 }

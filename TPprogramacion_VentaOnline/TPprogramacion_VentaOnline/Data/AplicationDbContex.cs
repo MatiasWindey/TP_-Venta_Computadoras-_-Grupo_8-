@@ -17,6 +17,7 @@ namespace TPprogramacion_VentaOnline.Data
         public DbSet<Pedido> Pedidos { get; set; }
         public DbSet<Producto> Productos { get; set; }
 
+        public DbSet<Puntuacion> Puntuaciones { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=TPprogramacion;Trusted_Connection=true;TrustServerCertificate=True;");

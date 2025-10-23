@@ -66,16 +66,26 @@ namespace TPVentaOnlineFront
         {
 
         }
-      
-        private void button2_Click(object sender, EventArgs e)
-        {
-            RepositoriesComponente.EliminarComponente(Id);
-        }
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
+         
             int Id = int.Parse(textBox1.Text);
+           
         }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (int.TryParse(textBox1.Text, out int id))
+            {
+                RepositoriesComponente.EliminarComponente(id);
+                MessageBox.Show("Componente eliminado correctamente.");
+            }
+            else
+            {
+                MessageBox.Show("Por favor, ingrese un ID válido.");
+            }
+        }
+
+       
 
 
     } 

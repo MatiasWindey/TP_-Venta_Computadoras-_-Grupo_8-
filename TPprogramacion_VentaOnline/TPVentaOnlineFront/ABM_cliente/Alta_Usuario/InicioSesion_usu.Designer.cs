@@ -36,6 +36,7 @@
             label4 = new Label();
             textBox1 = new TextBox();
             button2 = new Button();
+            button3 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -110,11 +111,22 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // button3
+            // 
+            button3.Location = new Point(21, 409);
+            button3.Name = "button3";
+            button3.Size = new Size(145, 29);
+            button3.TabIndex = 9;
+            button3.Text = "Volver inicio";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // InicioSesion_usu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(textBox1);
             Controls.Add(label4);
@@ -139,5 +151,6 @@
         private Label label4;
         private TextBox textBox1;
         private Button button2;
+        private Button button3;
     }
 }

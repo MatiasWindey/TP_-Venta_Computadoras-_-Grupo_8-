@@ -32,6 +32,7 @@ namespace TPVentaOnlineFront
             button1 = new Button();
             button2 = new Button();
             button3 = new Button();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -64,11 +65,22 @@ namespace TPVentaOnlineFront
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // button4
+            // 
+            button4.Location = new Point(21, 398);
+            button4.Name = "button4";
+            button4.Size = new Size(101, 29);
+            button4.TabIndex = 3;
+            button4.Text = "Volver inicio";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
             // ABM
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 450);
+            Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -84,5 +96,6 @@ namespace TPVentaOnlineFront
         private Button button2;
         private Button button3;
         private EventHandler button1_Click;
+        private Button button4;
     }
 }

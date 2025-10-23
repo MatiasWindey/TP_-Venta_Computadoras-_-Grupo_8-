@@ -19,11 +19,22 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
 
         private void button3_Click(object sender, EventArgs e)
         {
+            Puntuacion_Pagina Valoracion = new Puntuacion_Pagina();
+            Valoracion.Show();
+            this.Hide();
 
         }
 
         private void Cuenta_usu_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Inicio inicio = new Inicio();
+            inicio.Show();
+            this.Hide();
 
         }
     }

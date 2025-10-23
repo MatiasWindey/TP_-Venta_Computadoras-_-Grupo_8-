@@ -62,6 +62,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(147, 27);
             textBox1.TabIndex = 2;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // textBox2
             // 
@@ -69,6 +70,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(147, 27);
             textBox2.TabIndex = 3;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // button1
             // 
@@ -78,6 +80,7 @@
             button1.TabIndex = 4;
             button1.Text = "Aplicar Modificacion";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label3
             // 
@@ -103,6 +106,7 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(147, 27);
             textBox3.TabIndex = 7;
+            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // Modif_Contraseña
             // 

@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TPprogramacion_VentaOnline.Modelo;
+using TPprogramacion_VentaOnline.Repositories;
 
 namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
 {
@@ -43,7 +45,15 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
             string correo = textBox2.Text;
             string contrasenia = textBox3.Text;
             string confirmarcontrasenia = textBox4.Text;
-            if (contrasenia != confirmarcontrasenia)
+            if (contrasenia == confirmarcontrasenia)
+            {
+                MessageBox.Show("Cuenta Creada con Exito");
+
+
+                Cliente cliente = new Cliente(nombre, correo, contrasenia);
+                RepositoriesCliente.AgregarCliente(cliente);
+            }
+            else
             {
                 MessageBox.Show("Las contraseñas no coinciden. Por favor, inténtelo de nuevo.");
                 return;
@@ -63,5 +73,15 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Inicio menu = new Inicio();
+
+            menu.Show();
+
+            this.Hide();
+        }
+    
     }
 }

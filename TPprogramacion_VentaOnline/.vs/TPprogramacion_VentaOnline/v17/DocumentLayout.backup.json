@@ -7,12 +7,40 @@
       "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\tpprogramacion_ventaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\reportes\\reportecomponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\reportes\\reportecomponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\reportes\\reportecomponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\reportes\\reportecomponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\inicio_menu\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\inicio_menu\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\reportes\\reportevaloracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\reportes\\reportevaloracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\reportes\\reportevaloracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\reportes\\reportevaloracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\alta_comp\\agregar_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,36 +51,60 @@
       "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\alta_comp\\agregar_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriescomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriescomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\puntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\puntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriespuntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriespuntuacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\data\\aplicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\data\\aplicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\baja_comp\\baja_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_componente\\modificacion_comp\\modificacion_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\modificacion_comp\\modificacion_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\modificacion_comp\\modificacion_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\modificacion_comp\\modificacion_componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\puntuacion_pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriescomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriescomponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\alta_usuario\\crearcuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\alta_usuario\\crearcuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\alta_usuario\\iniciosesion_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,32 +119,32 @@
       "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\alta_usuario\\crearcuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\alta_usuario\\crearcuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\alta_usuario\\crearcuenta_usu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_nombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\inicio_comp\\abm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\inicio_comp\\abm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_componente\\inicio_comp\\abm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_componente\\inicio_comp\\abm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\inicio_menu\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\inicio_menu\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\cuenta_usu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpprogramacion_ventaonline\\repositories\\repositoriescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B533F92-84FE-4158-ABBB-57F68056C9D9}|TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj|solutionrelative:tpprogramacion_ventaonline\\repositories\\repositoriescliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|solutionrelative:tpventaonlinefront\\abm_cliente\\cuenta_usuario\\modificacion\\modif_contrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FF37F7E-822C-4D30-A74D-18BCDB3F5121}|TPVentaOnlineFront\\TPVentaOnlineFront.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\tp_-venta_computadoras-_-grupo_8-\\tpprogramacion_ventaonline\\tpventaonlinefront\\abm_cliente\\alta_usuario\\iniciosesion_usu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,17 +158,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 391,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "CrearCuenta_usu.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\CrearCuenta_usu.cs",
               "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\CrearCuenta_usu.cs",
               "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\CrearCuenta_usu.cs",
               "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\CrearCuenta_usu.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T20:02:50.432Z",
               "IsPinned": true,
@@ -124,134 +176,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TPprogramacion_VentaOnline",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-23T00:20:07.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Baja_Componente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs [Dise\u00F1o]",
+              "Title": "ReporteComponentes.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCUAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:45:48.442Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-23T05:18:52.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Baja_Componente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAwwFAAAAAGAAAAAAAAAA==",
+              "Title": "ReporteComponentes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\Reportes\\ReporteComponentes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:45:55.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Agregar_Componente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T02:31:24.656Z",
+              "WhenOpened": "2025-10-23T05:16:39.879Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Agregar_Componente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvyYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T04:11:15.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepositoriesComponente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T22:58:42.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AplicationDbContex.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T03:28:21.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Componente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T02:37:03.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Modificacion_Componente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:12:50.843Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Puntuacion_Pagina.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:44:02.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Puntuacion_Pagina.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
               "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
@@ -263,7 +213,323 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TPprogramacion_VentaOnline.csproj",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T00:20:07.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Puntuacion_Pagina.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Puntuacion_Pagina.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:44:02.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cuenta_usu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:18:00.38Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Inicio_menu\\Inicio.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Inicio_menu\\Inicio.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Inicio_menu\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\Inicio_menu\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:05:01.808Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuenta_usu.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:07:18.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReporteValoracion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:15:47.25Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReporteValoracion.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\Reportes\\ReporteValoracion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:19:08.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Agregar_Componente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T02:31:24.656Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Puntuacion.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Puntuacion.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Puntuacion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Puntuacion.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Puntuacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:42:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Agregar_Componente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Alta_comp\\Agregar_Componente.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAqwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T04:11:15.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoriesPuntuacion.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesPuntuacion.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesPuntuacion.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesPuntuacion.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesPuntuacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:44:10.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:00:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AplicationDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Data\\AplicationDbContex.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T03:28:21.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Baja_Componente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:45:55.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RepositoriesCliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:00:46.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Baja_Componente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Baja_comp\\Baja_Componente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:45:48.442Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Modificacion_Componente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:12:50.843Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Modificacion_Componente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Modificacion_comp\\Modificacion_Componente.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:44:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RepositoriesComponente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesComponente.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:58:42.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Modif_Nombre.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:07:09.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Modif_Nombre.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:30:15.642Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Modif_Contrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvzcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T03:40:56.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Modif_Contrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:30:31.316Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InicioSesion_usu.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:13:08.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InicioSesion_usu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:12:57.135Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "CrearCuenta_usu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\CrearCuenta_usu.cs",
               "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\CrearCuenta_usu.cs",
@@ -275,130 +541,92 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cuenta_usu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs [Dise\u00F1o]",
+              "DocumentIndex": 30,
+              "Title": "Componente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Componente.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:18:00.38Z"
+              "WhenOpened": "2025-10-22T02:37:03.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "InicioSesion_usu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs [Dise\u00F1o]",
+              "DocumentIndex": 31,
+              "Title": "ABM.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwDEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:12:57.135Z"
+              "WhenOpened": "2025-10-23T03:19:42.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InicioSesion_usu.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "ABM.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TPVentaOnlineFront\\ABM_componente\\Inicio_comp\\ABM.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:13:08.785Z"
+              "WhenOpened": "2025-10-23T03:19:15.281Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Cuenta_usu.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Program.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Program.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:07:18.215Z"
+              "WhenOpened": "2025-10-23T03:17:56.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Modif_Nombre.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs [Dise\u00F1o]",
+              "DocumentIndex": 34,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Inicio_menu\\Inicio.cs",
+              "RelativeDocumentMoniker": "TPVentaOnlineFront\\Inicio_menu\\Inicio.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\Inicio_menu\\Inicio.cs",
+              "RelativeToolTip": "TPVentaOnlineFront\\Inicio_menu\\Inicio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:30:15.642Z"
+              "WhenOpened": "2025-10-23T03:08:52.5Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Modif_Nombre.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Nombre.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:07:09.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 35,
               "Title": "Cuenta_usu.resx",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.resx",
               "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.resx",
               "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.resx",
               "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Cuenta_usu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-22T21:05:13.201Z"
+              "WhenOpened": "2025-10-22T21:05:13.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RepositoriesCliente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\Repositories\\RepositoriesCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:00:46.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
-              "RelativeDocumentMoniker": "TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
-              "RelativeToolTip": "TPprogramacion_VentaOnline\\Modelo\\Cliente.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:00:20.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Modif_Contrase\u00F1a.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Cuenta_Usuario\\Modificacion\\Modif_Contrase\u00F1a.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:30:31.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "InicioSesion_usu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.Designer.cs",
               "RelativeDocumentMoniker": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.Designer.cs",
               "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\TP_-Venta_Computadoras-_-Grupo_8-\\TPprogramacion_VentaOnline\\TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.Designer.cs",
               "RelativeToolTip": "TPVentaOnlineFront\\ABM_cliente\\Alta_Usuario\\InicioSesion_usu.Designer.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAUwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T20:11:57.292Z"
+              "WhenOpened": "2025-10-22T20:11:57.292Z",
+              "EditorCaption": ""
             }
           ]
         }

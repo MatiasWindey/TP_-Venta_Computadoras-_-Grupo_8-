@@ -40,6 +40,7 @@
             textBox4 = new TextBox();
             button2 = new Button();
             label6 = new Label();
+            button3 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -148,11 +149,22 @@
             label6.TabIndex = 11;
             label6.Text = "Ya tenes Cuenta?";
             // 
+            // button3
+            // 
+            button3.Location = new Point(12, 409);
+            button3.Name = "button3";
+            button3.Size = new Size(137, 29);
+            button3.TabIndex = 12;
+            button3.Text = "Volver inicio";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
             // CrearCuenta_usu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button3);
             Controls.Add(label6);
             Controls.Add(button2);
             Controls.Add(textBox4);
@@ -186,5 +198,6 @@
         private TextBox textBox4;
         private Button button2;
         private Label label6;
+        private Button button3;
     }
 }

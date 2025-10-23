@@ -38,5 +38,16 @@ namespace TPprogramacion_VentaOnline.Repositories
                 }
             }
         }
+        public static void ModificarComponente(int id)
+        {
+            using (var context = new Data.AplicationDbContex())
+            {
+                var componenteAModificar = context.Componentes.FirstOrDefault(c => c.Id == id);
+                if (componenteAModificar != null)
+                {
+                    context.SaveChanges();
+                }
+            }
+        }
     }
 }

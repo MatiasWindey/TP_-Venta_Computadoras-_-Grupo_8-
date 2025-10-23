@@ -12,7 +12,7 @@ using TPprogramacion_VentaOnline.Modelo;
 
 namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
 {
-    
+
     public partial class InicioSesion_usu : Form
     {
         List<Cliente> LCliente = new List<Cliente>();
@@ -58,6 +58,15 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
             CrearCuenta_usu CrearCuenta = new CrearCuenta_usu();
 
             CrearCuenta.Show();
+
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Inicio menu = new Inicio();
+
+            menu.Show();
 
             this.Hide();
         }

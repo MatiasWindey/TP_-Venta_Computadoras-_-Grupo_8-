@@ -71,3 +71,4 @@ C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPpr
 C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario.Modif_Contraseña.resources
 C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario.Modif_Nombre.resources
 C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario.Puntuacion_Pagina.resources
+C:\Users\tomas\OneDrive\Documentos\GitHub\TP_-Venta_Computadoras-_-Grupo_8-\TPprogramacion_VentaOnline\TPVentaOnlineFront\obj\Debug\net8.0-windows\TPVentaOnlineFront.Inicio.resources

@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             button1 = new Button();
-            comboBox1 = new ComboBox();
             label2 = new Label();
             label3 = new Label();
             label5 = new Label();
@@ -44,28 +43,20 @@
             textBox1 = new TextBox();
             label9 = new Label();
             listBox1 = new ListBox();
-            button2 = new Button();
             button3 = new Button();
             button4 = new Button();
+            textBox6 = new TextBox();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(599, 41);
+            button1.Location = new Point(611, 36);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 8;
             button1.Text = "Buscar";
             button1.UseVisualStyleBackColor = true;
-            // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Procesador ", "PlacaBase ", "MemoriaRAM", "Almacenamiento ", "TarjetaGrafica", "FuentePoder ", "Gabinete " });
-            comboBox1.Location = new Point(339, 42);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(212, 28);
-            comboBox1.TabIndex = 7;
+            button1.Click += button1_Click;
             // 
             // label2
             // 
@@ -99,6 +90,7 @@
             textBox5.Name = "textBox5";
             textBox5.Size = new Size(229, 27);
             textBox5.TabIndex = 18;
+            textBox5.TextChanged += textBox5_TextChanged;
             // 
             // textBox4
             // 
@@ -106,6 +98,7 @@
             textBox4.Name = "textBox4";
             textBox4.Size = new Size(229, 27);
             textBox4.TabIndex = 17;
+            textBox4.TextChanged += textBox4_TextChanged;
             // 
             // textBox3
             // 
@@ -113,6 +106,7 @@
             textBox3.Name = "textBox3";
             textBox3.Size = new Size(229, 27);
             textBox3.TabIndex = 16;
+            textBox3.TextChanged += textBox3_TextChanged;
             // 
             // textBox2
             // 
@@ -120,6 +114,7 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(229, 27);
             textBox2.TabIndex = 15;
+            textBox2.TextChanged += textBox2_TextChanged;
             // 
             // label4
             // 
@@ -163,6 +158,7 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(229, 27);
             textBox1.TabIndex = 10;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label9
             // 
@@ -176,19 +172,11 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(374, 121);
+            listBox1.Location = new Point(343, 111);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(150, 104);
             listBox1.TabIndex = 20;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(599, 121);
-            button2.Name = "button2";
-            button2.Size = new Size(94, 29);
-            button2.TabIndex = 22;
-            button2.Text = "Seleccionar";
-            button2.UseVisualStyleBackColor = true;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // button3
             // 
@@ -198,6 +186,7 @@
             button3.TabIndex = 23;
             button3.Text = "Modificar";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 
@@ -209,14 +198,22 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // textBox6
+            // 
+            textBox6.Location = new Point(339, 38);
+            textBox6.Name = "textBox6";
+            textBox6.Size = new Size(229, 27);
+            textBox6.TabIndex = 25;
+            textBox6.TextChanged += textBox6_TextChanged;
+            // 
             // Modificacion_Componente
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1004, 548);
+            Controls.Add(textBox6);
             Controls.Add(button4);
             Controls.Add(button3);
-            Controls.Add(button2);
             Controls.Add(label9);
             Controls.Add(listBox1);
             Controls.Add(label5);
@@ -230,7 +227,6 @@
             Controls.Add(label8);
             Controls.Add(textBox1);
             Controls.Add(button1);
-            Controls.Add(comboBox1);
             Controls.Add(label2);
             Controls.Add(label3);
             Name = "Modificacion_Componente";
@@ -241,7 +237,6 @@
 
         #endregion
         private Button button1;
-        private ComboBox comboBox1;
         private Label label2;
         private Label label3;
         private Label label5;
@@ -256,8 +251,8 @@
         private TextBox textBox1;
         private Label label9;
         private ListBox listBox1;
-        private Button button2;
         private Button button3;
         private Button button4;
+        private TextBox textBox6;
     }
 }

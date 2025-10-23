@@ -7,12 +7,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TPprogramacion_VentaOnline.Modelo;
+using TPprogramacion_VentaOnline.Data;
+using TPprogramacion_VentaOnline.Repositories;
+using TPVentaOnlineFront.Reportes;
 
 namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
 {
     public partial class Puntuacion_Pagina : Form
     {
-        List<int> Puntuaciones = new List<int>();
+
         public Puntuacion_Pagina()
         {
             InitializeComponent();
@@ -20,38 +24,49 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
 
         private void button1_Click(object sender, EventArgs e)
         {
+            int valor = 0;
             if (checkBox1.CheckState == CheckState.Checked)
             {
-                Puntuaciones.Add(1);
+                valor = 1;
             }
             else if (checkBox2.CheckState == CheckState.Checked)
             {
-                Puntuaciones.Add(2);
+                valor = 2;
             }
             else if (checkBox3.CheckState == CheckState.Checked)
             {
-                Puntuaciones.Add(3);
+                valor = 3;
             }
             else if (checkBox4.CheckState == CheckState.Checked)
             {
-                Puntuaciones.Add(4);
+                valor = 4;
             }
             else if (checkBox5.CheckState == CheckState.Checked)
             {
-                Puntuaciones.Add(5);
+                valor = 5;
             }
-            if (Puntuaciones.Count > 0 && Puntuaciones.Count < 2)
+
+            if (valor == 0)
             {
-                MessageBox.Show("Gracias por su puntuacion de " + Puntuaciones.Last().ToString() + " estrellas!");
+                MessageBox.Show("Por favor, seleccione una puntuación antes de enviar.");
+                return;
             }
-            else
-            {
-                MessageBox.Show("Por favor, seleccione una puntuacion antes de enviar.");
-            }
+
+
+            Puntuacion puntuacion = new Puntuacion(valor);
+            RepositoriesPuntuacion.AgregarPuntuacion(puntuacion);
         }
 
         private void Puntuacion_Pagina_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Cuenta_usu cuenta_Usu = new Cuenta_usu();
+            cuenta_Usu.Show();
+            this.Hide();
 
         }
     }
