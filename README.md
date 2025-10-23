@@ -41,7 +41,7 @@ Modificacion de clientes : modificacion de datos personales
 
 Reportes :
 
-Reporte de ventas : los productos más vendidos 
+Reporte cantidad de componentes exitentes 
 
 Reporte de satisfacción del usuario: permite analizar la valoración de los clientes 
 
