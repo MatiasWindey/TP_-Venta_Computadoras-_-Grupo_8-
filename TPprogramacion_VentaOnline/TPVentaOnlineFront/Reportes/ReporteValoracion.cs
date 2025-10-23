@@ -29,6 +29,11 @@ namespace TPVentaOnlineFront.Reportes
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
             using (var context = new AplicationDbContex())
             {
                 int contador1 = 0;
@@ -36,37 +41,27 @@ namespace TPVentaOnlineFront.Reportes
                 int contador3 = 0;
                 int contador4 = 0;
                 int contador5 = 0;
+             
                 foreach (var Puntuacion in context.Puntuaciones.ToList())
                 {
-
                     if (Puntuacion.Valoracion == 1)
-                    {
                         contador1++;
-                        listBox1.Items.Add($"La cantidad de 1 Estrella es : {contador1} ");
-                    }
                     else if (Puntuacion.Valoracion == 2)
-                    {
                         contador2++;
-                        listBox1.Items.Add($"La cantidad de 2 Estrella es : {contador2} ");
-                    }
                     else if (Puntuacion.Valoracion == 3)
-                    {
                         contador3++;
-                        listBox1.Items.Add($"La cantidad de 3 Estrella es: {contador3} ");
-                    }
                     else if (Puntuacion.Valoracion == 4)
-                    {
                         contador4++;
-                        listBox1.Items.Add($"La cantidad de 4 Estrella es: {contador4} ");
-                    }
                     else if (Puntuacion.Valoracion == 5)
-                    {
                         contador5++;
-                        listBox1.Items.Add($"La cantidad de 5 Estrella es: {contador5} ");
-
-                    }
                 }
-            
+
+                listBox1.Items.Clear();
+                listBox1.Items.Add($"Cantidad de valoraciones de 1 estrella: {contador1}");
+                listBox1.Items.Add($"Cantidad de valoraciones de 2 estrellas: {contador2}");
+                listBox1.Items.Add($"Cantidad de valoraciones de 3 estrellas: {contador3}");
+                listBox1.Items.Add($"Cantidad de valoraciones de 4 estrellas: {contador4}");
+                listBox1.Items.Add($"Cantidad de valoraciones de 5 estrellas: {contador5}");
             }
         }
     }

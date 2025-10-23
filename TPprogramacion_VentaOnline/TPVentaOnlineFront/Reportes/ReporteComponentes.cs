@@ -21,19 +21,24 @@ namespace TPVentaOnlineFront.Reportes
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Cuenta_usu cuenta_Usu = new Cuenta_usu();
-            cuenta_Usu.Show();
+            ABM Abm = new ABM();
+            Abm.Show();
             this.Hide();
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
             using (var context = new AplicationDbContex())
             {
                 int cantidadComponentes = 0;
                 foreach (var componente in context.Componentes.ToList())
                 {
-                    cantidadComponentes+= componente.Stock;
+                    cantidadComponentes += componente.Stock;
                 }
                 listBox1.Items.Add($" La cantidad de componentes disponible es : {cantidadComponentes}");
             }

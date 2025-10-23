@@ -1,4 +1,5 @@
 using TPVentaOnlineFront.Modificacion;
+using TPVentaOnlineFront.Reportes;
 
 namespace TPVentaOnlineFront
 {
@@ -47,6 +48,20 @@ namespace TPVentaOnlineFront
 
             menu.Show();
 
+            this.Hide();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ReporteValoracion reporteValoracion = new ReporteValoracion();
+            reporteValoracion.Show();
+            this.Hide();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            ReporteComponentes reporteComponentes = new ReporteComponentes();
+            reporteComponentes.Show();
             this.Hide();
         }
     }

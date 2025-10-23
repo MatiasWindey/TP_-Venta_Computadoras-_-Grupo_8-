@@ -37,5 +37,19 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
             this.Hide();
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Modif_Nombre ModifNombre = new Modif_Nombre();
+            ModifNombre.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Modif_Contraseña ModifContraseña = new Modif_Contraseña();
+            ModifContraseña.Show();
+            this.Hide();
+        }
     }
 }

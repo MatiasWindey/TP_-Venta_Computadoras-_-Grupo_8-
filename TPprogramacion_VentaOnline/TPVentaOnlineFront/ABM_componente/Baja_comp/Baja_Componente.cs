@@ -54,6 +54,7 @@ namespace TPVentaOnlineFront
         {
             using (var context = new AplicationDbContex())
             {
+                listBox1.Items.Clear();
                 foreach (Componente componente in context.Componentes)
                 {
                     listBox1.Items.Add($"ID: {componente.Id} - {componente.Marca} {componente.Modelo}");
@@ -74,6 +75,7 @@ namespace TPVentaOnlineFront
         }
         private void button2_Click(object sender, EventArgs e)
         {
+            
             if (int.TryParse(textBox1.Text, out int id))
             {
                 RepositoriesComponente.EliminarComponente(id);

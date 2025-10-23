@@ -50,22 +50,22 @@
             // 
             // button1
             // 
-            button1.Location = new Point(611, 36);
+            button1.Location = new Point(785, 42);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(194, 29);
             button1.TabIndex = 8;
-            button1.Text = "Buscar";
+            button1.Text = "Ver componentes";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(171, 41);
+            label2.Location = new Point(29, 178);
             label2.Name = "label2";
-            label2.Size = new Size(129, 20);
+            label2.Size = new Size(271, 20);
             label2.TabIndex = 6;
-            label2.Text = "Tipo Componente";
+            label2.Text = "Ingrese Id de componenete a modificar";
             // 
             // label3
             // 
@@ -163,7 +163,7 @@
             // label9
             // 
             label9.AutoSize = true;
-            label9.Location = new Point(171, 121);
+            label9.Location = new Point(49, 42);
             label9.Name = "label9";
             label9.Size = new Size(135, 20);
             label9.TabIndex = 21;
@@ -172,9 +172,9 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(343, 111);
+            listBox1.Location = new Point(204, 42);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(150, 104);
+            listBox1.Size = new Size(563, 104);
             listBox1.TabIndex = 20;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
@@ -200,7 +200,7 @@
             // 
             // textBox6
             // 
-            textBox6.Location = new Point(339, 38);
+            textBox6.Location = new Point(339, 178);
             textBox6.Name = "textBox6";
             textBox6.Size = new Size(229, 27);
             textBox6.TabIndex = 25;
@@ -231,6 +231,7 @@
             Controls.Add(label3);
             Name = "Modificacion_Componente";
             Text = "Modificacion_Componente";
+            Load += Modificacion_Componente_Load;
             ResumeLayout(false);
             PerformLayout();
         }

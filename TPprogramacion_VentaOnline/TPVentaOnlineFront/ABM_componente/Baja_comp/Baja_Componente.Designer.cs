@@ -48,7 +48,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(151, 73);
+            label2.Location = new Point(103, 201);
             label2.Name = "label2";
             label2.Size = new Size(148, 20);
             label2.TabIndex = 1;
@@ -56,7 +56,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(151, 128);
+            button1.Location = new Point(585, 44);
             button1.Name = "button1";
             button1.Size = new Size(167, 29);
             button1.TabIndex = 4;
@@ -66,7 +66,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(573, 71);
+            button2.Location = new Point(585, 201);
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 7;
@@ -86,7 +86,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(319, 72);
+            textBox1.Location = new Point(298, 201);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(210, 27);
             textBox1.TabIndex = 13;
@@ -95,9 +95,9 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(353, 128);
+            listBox1.Location = new Point(103, 44);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(150, 104);
+            listBox1.Size = new Size(452, 104);
             listBox1.TabIndex = 14;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged_2;
             // 

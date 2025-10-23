@@ -33,11 +33,13 @@ namespace TPVentaOnlineFront
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
+            button5 = new Button();
+            button6 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(287, 127);
+            button1.Location = new Point(287, 62);
             button1.Name = "button1";
             button1.Size = new Size(204, 29);
             button1.TabIndex = 0;
@@ -47,7 +49,7 @@ namespace TPVentaOnlineFront
             // 
             // button2
             // 
-            button2.Location = new Point(287, 202);
+            button2.Location = new Point(287, 128);
             button2.Name = "button2";
             button2.Size = new Size(205, 29);
             button2.TabIndex = 1;
@@ -57,7 +59,7 @@ namespace TPVentaOnlineFront
             // 
             // button3
             // 
-            button3.Location = new Point(287, 273);
+            button3.Location = new Point(287, 195);
             button3.Name = "button3";
             button3.Size = new Size(205, 29);
             button3.TabIndex = 2;
@@ -75,11 +77,33 @@ namespace TPVentaOnlineFront
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // button5
+            // 
+            button5.Location = new Point(287, 258);
+            button5.Name = "button5";
+            button5.Size = new Size(205, 29);
+            button5.TabIndex = 4;
+            button5.Text = "Reporte Puntuacion";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
+            // button6
+            // 
+            button6.Location = new Point(286, 321);
+            button6.Name = "button6";
+            button6.Size = new Size(205, 29);
+            button6.TabIndex = 5;
+            button6.Text = "Reporte Componente";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
+            // 
             // ABM
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(784, 450);
+            Controls.Add(button6);
+            Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
             Controls.Add(button2);
@@ -97,5 +121,7 @@ namespace TPVentaOnlineFront
         private Button button3;
         private EventHandler button1_Click;
         private Button button4;
+        private Button button5;
+        private Button button6;
     }
 }

@@ -51,7 +51,7 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
                 MessageBox.Show("Por favor, seleccione una puntuación antes de enviar.");
                 return;
             }
-
+             MessageBox.Show("Gracias por su puntuación!");
 
             Puntuacion puntuacion = new Puntuacion(valor);
             RepositoriesPuntuacion.AgregarPuntuacion(puntuacion);

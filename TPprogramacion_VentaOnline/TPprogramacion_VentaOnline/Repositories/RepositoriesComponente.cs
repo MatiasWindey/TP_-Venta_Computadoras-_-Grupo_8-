@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using TPprogramacion_VentaOnline.Modelo;
 
 
+
 namespace TPprogramacion_VentaOnline.Repositories
 {
     public static class RepositoriesComponente
@@ -38,13 +39,18 @@ namespace TPprogramacion_VentaOnline.Repositories
                 }
             }
         }
-        public static void ModificarComponente(int id)
+        public static void ModificarComponente(int id,string tipo,string marca,string modelo,float precio,int stock)
         {
             using (var context = new Data.AplicationDbContex())
             {
                 var componenteAModificar = context.Componentes.FirstOrDefault(c => c.Id == id);
                 if (componenteAModificar != null)
                 {
+                    componenteAModificar.Tipo = tipo;
+                    componenteAModificar.Marca = marca;
+                    componenteAModificar.Modelo = modelo;
+                    componenteAModificar.Precio = precio;
+                    componenteAModificar.Stock = stock;
                     context.SaveChanges();
                 }
             }

@@ -11,7 +11,7 @@ using TPprogramacion_VentaOnline.Data;
 namespace TPprogramacion_VentaOnline.Migrations
 {
     [DbContext(typeof(AplicationDbContex))]
-    [Migration("20251014190236_InitialCreate")]
+    [Migration("20251023180524_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -53,10 +53,6 @@ namespace TPprogramacion_VentaOnline.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Apellido")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Contrasenia")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -89,6 +85,12 @@ namespace TPprogramacion_VentaOnline.Migrations
                     b.Property<string>("Modelo")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<float>("Precio")
+                        .HasColumnType("real");
+
+                    b.Property<int>("Stock")
+                        .HasColumnType("int");
 
                     b.Property<string>("Tipo")
                         .IsRequired()
@@ -188,6 +190,22 @@ namespace TPprogramacion_VentaOnline.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Productos");
+                });
+
+            modelBuilder.Entity("TPprogramacion_VentaOnline.Modelo.Puntuacion", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Valoracion")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Puntuaciones");
                 });
 #pragma warning restore 612, 618
         }

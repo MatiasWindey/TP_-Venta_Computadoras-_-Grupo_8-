@@ -32,12 +32,13 @@
             label2 = new Label();
             listBox1 = new ListBox();
             button1 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(355, 19);
+            label1.Location = new Point(368, 20);
             label1.Name = "label1";
             label1.Size = new Size(62, 20);
             label1.TabIndex = 1;
@@ -47,7 +48,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(195, 69);
+            label2.Location = new Point(356, 79);
             label2.Name = "label2";
             label2.Size = new Size(93, 20);
             label2.TabIndex = 2;
@@ -57,9 +58,9 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(321, 69);
+            listBox1.Location = new Point(118, 123);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(150, 104);
+            listBox1.Size = new Size(582, 104);
             listBox1.TabIndex = 3;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
@@ -73,11 +74,22 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // button2
+            // 
+            button2.Location = new Point(355, 233);
+            button2.Name = "button2";
+            button2.Size = new Size(94, 29);
+            button2.TabIndex = 5;
+            button2.Text = "Ver";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // ReporteValoracion
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(listBox1);
             Controls.Add(label2);
@@ -93,5 +105,6 @@
         private Label label2;
         private ListBox listBox1;
         private Button button1;
+        private Button button2;
     }
 }

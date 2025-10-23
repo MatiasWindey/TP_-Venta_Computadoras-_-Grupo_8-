@@ -48,6 +48,7 @@
             button1.TabIndex = 0;
             button1.Text = "Modificar";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // label1
             // 
@@ -84,6 +85,7 @@
             button2.TabIndex = 7;
             button2.Text = "Modificar ";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label3
             // 

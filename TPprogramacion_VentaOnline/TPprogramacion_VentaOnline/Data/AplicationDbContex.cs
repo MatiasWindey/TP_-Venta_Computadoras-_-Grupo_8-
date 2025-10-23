@@ -20,7 +20,7 @@ namespace TPprogramacion_VentaOnline.Data
         public DbSet<Puntuacion> Puntuaciones { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=TPprogramacion;Trusted_Connection=true;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=TPprogamacionfinal;Trusted_Connection=true;TrustServerCertificate=True;");
         }
 
 

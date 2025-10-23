@@ -41,8 +41,8 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string nombre = textBox1.Text;
-            string correo = textBox2.Text;
+            string nombre = textBox2.Text;
+            string correo = textBox1.Text;
             string contrasenia = textBox3.Text;
             string confirmarcontrasenia = textBox4.Text;
             if (contrasenia == confirmarcontrasenia)

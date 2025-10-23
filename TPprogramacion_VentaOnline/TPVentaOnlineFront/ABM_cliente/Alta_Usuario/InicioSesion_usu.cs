@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario;
 using TPprogramacion_VentaOnline.Modelo;
+using TPprogramacion_VentaOnline.Data;
 
 namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
 {
 
     public partial class InicioSesion_usu : Form
     {
-        List<Cliente> LCliente = new List<Cliente>();
         public InicioSesion_usu()
         {
             InitializeComponent();
@@ -34,23 +34,27 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
         {
             string nombre = textBox1.Text;
             string contrasenia = textBox2.Text;
-            foreach (Cliente cliente in LCliente)
+            using (var context = new AplicationDbContex())
             {
-                if (cliente.Nombre == nombre && cliente.Contrasenia == contrasenia)
+                var CuentaInicio = context.Clientes.FirstOrDefault(c => c.Nombre == nombre);
                 {
-                    MessageBox.Show("Inicio de sesión exitoso.");
-                }
-                else
-                {
-                    MessageBox.Show("Nombre o contraseña incorrectos. Por favor, inténtelo de nuevo.");
-                    return;
+                    if (CuentaInicio.Nombre == nombre && CuentaInicio.Contrasenia == contrasenia)
+                    { 
+                        Cuenta_usu Perfil = new Cuenta_usu();
+
+                        Perfil.Show();
+
+                        this.Hide();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Nombre o contraseña incorrectos. Por favor, inténtelo de nuevo.");
+                        return;
+
+                    }
                 }
             }
-            Cuenta_usu Perfil = new Cuenta_usu();
-
-            Perfil.Show();
-
-            this.Hide();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)

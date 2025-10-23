@@ -31,7 +31,6 @@ namespace TPprogramacion_VentaOnline.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nombre = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Apellido = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Correo = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Contrasenia = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
@@ -48,7 +47,9 @@ namespace TPprogramacion_VentaOnline.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Tipo = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Marca = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Modelo = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Modelo = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Precio = table.Column<float>(type: "real", nullable: false),
+                    Stock = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -104,6 +105,19 @@ namespace TPprogramacion_VentaOnline.Migrations
                 {
                     table.PrimaryKey("PK_Productos", x => x.Id);
                 });
+
+            migrationBuilder.CreateTable(
+                name: "Puntuaciones",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Valoracion = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Puntuaciones", x => x.Id);
+                });
         }
 
         /// <inheritdoc />
@@ -126,6 +140,9 @@ namespace TPprogramacion_VentaOnline.Migrations
 
             migrationBuilder.DropTable(
                 name: "Productos");
+
+            migrationBuilder.DropTable(
+                name: "Puntuaciones");
         }
     }
 }
