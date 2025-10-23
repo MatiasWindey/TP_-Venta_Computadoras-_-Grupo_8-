@@ -30,12 +30,11 @@
         {
             label1 = new Label();
             label2 = new Label();
-            comboBox1 = new ComboBox();
             button1 = new Button();
             button2 = new Button();
-            label3 = new Label();
-            listBox1 = new ListBox();
             button3 = new Button();
+            textBox1 = new TextBox();
+            listBox1 = new ListBox();
             SuspendLayout();
             // 
             // label1
@@ -49,57 +48,31 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(166, 76);
+            label2.Location = new Point(151, 73);
             label2.Name = "label2";
-            label2.Size = new Size(129, 20);
+            label2.Size = new Size(148, 20);
             label2.TabIndex = 1;
-            label2.Text = "Tipo Componente";
-            // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Procesador ", "PlacaBase ", "MemoriaRAM", "Almacenamiento ", "TarjetaGrafica", "FuentePoder ", "Gabinete " });
-            comboBox1.Location = new Point(329, 73);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(212, 28);
-            comboBox1.TabIndex = 2;
-            comboBox1.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            label2.Text = "Ingrese ID producto :";
             // 
             // button1
             // 
-            button1.Location = new Point(584, 73);
+            button1.Location = new Point(151, 128);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(167, 29);
             button1.TabIndex = 4;
-            button1.Text = "Buscar";
+            button1.Text = "Ver Componentes ";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
-            button2.Location = new Point(584, 212);
+            button2.Location = new Point(573, 71);
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 7;
             button2.Text = "Eliminar Componente";
             button2.UseVisualStyleBackColor = true;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.Location = new Point(166, 212);
-            label3.Name = "label3";
-            label3.Size = new Size(135, 20);
-            label3.TabIndex = 6;
-            label3.Text = "Lista Componentes";
-            // 
-            // listBox1
-            // 
-            listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(355, 212);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(150, 104);
-            listBox1.TabIndex = 5;
-            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged_1;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
@@ -111,17 +84,33 @@
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(319, 72);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(210, 27);
+            textBox1.TabIndex = 13;
+            textBox1.TextChanged += textBox1_TextChanged;
+            // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.Location = new Point(353, 128);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(150, 104);
+            listBox1.TabIndex = 14;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged_2;
+            // 
             // Baja_Componente
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(listBox1);
+            Controls.Add(textBox1);
             Controls.Add(button3);
             Controls.Add(button2);
-            Controls.Add(label3);
-            Controls.Add(listBox1);
             Controls.Add(button1);
-            Controls.Add(comboBox1);
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Baja_Componente";
@@ -135,11 +124,10 @@
 
         private Label label1;
         private Label label2;
-        private ComboBox comboBox1;
         private Button button1;
         private Button button2;
-        private Label label3;
-        private ListBox listBox1;
         private Button button3;
+        private TextBox textBox1;
+        private ListBox listBox1;
     }
 }

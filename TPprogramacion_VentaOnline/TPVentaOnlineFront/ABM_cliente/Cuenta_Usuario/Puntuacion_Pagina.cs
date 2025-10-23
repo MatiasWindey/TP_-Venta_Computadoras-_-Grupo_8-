@@ -20,7 +20,7 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(checkBox1.CheckState == CheckState.Checked)
+            if (checkBox1.CheckState == CheckState.Checked)
             {
                 Puntuaciones.Add(1);
             }
@@ -40,7 +40,7 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
             {
                 Puntuaciones.Add(5);
             }
-            if (Puntuaciones.Count > 0 && Puntuaciones.Count < 2 )
+            if (Puntuaciones.Count > 0 && Puntuaciones.Count < 2)
             {
                 MessageBox.Show("Gracias por su puntuacion de " + Puntuaciones.Last().ToString() + " estrellas!");
             }
@@ -49,6 +49,10 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
                 MessageBox.Show("Por favor, seleccione una puntuacion antes de enviar.");
             }
         }
-        
+
+        private void Puntuacion_Pagina_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

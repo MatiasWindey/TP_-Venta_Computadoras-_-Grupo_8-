@@ -131,6 +131,7 @@
             Controls.Add(button1);
             Name = "Puntuacion_Pagina";
             Text = "Puntuacion_Pagina";
+            Load += Puntuacion_Pagina_Load;
             ResumeLayout(false);
             PerformLayout();
         }

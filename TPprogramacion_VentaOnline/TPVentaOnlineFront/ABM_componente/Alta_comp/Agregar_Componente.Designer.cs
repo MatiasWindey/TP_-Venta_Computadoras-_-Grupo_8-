@@ -168,6 +168,7 @@
             Controls.Add(label1);
             Name = "Agregar_Componente";
             Text = "Agregar_Componente";
+            Load += Agregar_Componente_Load;
             ResumeLayout(false);
             PerformLayout();
         }

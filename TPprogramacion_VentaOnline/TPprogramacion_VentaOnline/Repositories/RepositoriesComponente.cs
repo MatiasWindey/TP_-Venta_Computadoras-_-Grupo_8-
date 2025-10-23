@@ -15,8 +15,6 @@ namespace TPprogramacion_VentaOnline.Repositories
         public static void AgregarComponente(Componente componente)
         {
 
-
-
             using (var context = new Data.AplicationDbContex())
             {
                 
@@ -28,6 +26,17 @@ namespace TPprogramacion_VentaOnline.Repositories
                 
             }
         }
-
+        public static void EliminarComponente(int Id)
+        {
+            using (var context = new Data.AplicationDbContex())
+            {
+                var componenteAEliminar = context.Componentes.FirstOrDefault(c => c.Id == Id);
+                if (componenteAEliminar != null)
+                {
+                    context.Componentes.Remove(componenteAEliminar);
+                    context.SaveChanges();
+                }
+            }
+        }
     }
 }

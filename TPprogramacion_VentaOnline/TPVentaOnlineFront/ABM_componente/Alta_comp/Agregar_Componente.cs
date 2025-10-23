@@ -15,7 +15,7 @@ namespace TPVentaOnlineFront
 {
     public partial class Agregar_Componente : Form
     {
-        List<Componente> componentes = new List<Componente>();
+        
         public Agregar_Componente()
         {
             InitializeComponent();
@@ -35,7 +35,7 @@ namespace TPVentaOnlineFront
             this.Hide();
         }
         private void button1_Click(object sender, EventArgs e)
-        { 
+        {
             string tipo = comboBox1.SelectedItem.ToString();
             string marca = textBox2.Text;
             string modelo = textBox3.Text;
@@ -55,7 +55,7 @@ namespace TPVentaOnlineFront
         {
 
         }
-        
+
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
@@ -75,6 +75,9 @@ namespace TPVentaOnlineFront
 
         }
 
-       
+        private void Agregar_Componente_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
