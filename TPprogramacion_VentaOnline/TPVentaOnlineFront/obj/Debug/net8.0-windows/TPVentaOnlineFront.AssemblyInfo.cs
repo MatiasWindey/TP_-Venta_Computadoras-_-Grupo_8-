@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPVentaOnlineFront")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a53ac23a48f885ef6d6bc92628264c5c306065")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8048c2724d25500f85d5c1c374cbb79c3ebafebe")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPVentaOnlineFront")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPVentaOnlineFront")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

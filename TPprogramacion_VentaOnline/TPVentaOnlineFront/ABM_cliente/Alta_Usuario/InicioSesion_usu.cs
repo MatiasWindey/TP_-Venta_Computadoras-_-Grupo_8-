@@ -52,7 +52,7 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
                     }
                     else
                     {
-                        MessageBox.Show("Nombre o contraseña incorrectos. Por favor, inténtelo de nuevo.");
+                        MessageBox.Show("Correo o contraseña incorrectos. Por favor, inténtelo de nuevo.");
                         return;
 
                     }
