@@ -38,11 +38,15 @@
             button3 = new Button();
             label6 = new Label();
             button4 = new Button();
+            listBox1 = new ListBox();
+            button5 = new Button();
+            listBox2 = new ListBox();
+            listBox3 = new ListBox();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(374, 108);
+            button1.Location = new Point(645, 109);
             button1.Name = "button1";
             button1.Size = new Size(113, 29);
             button1.TabIndex = 0;
@@ -62,7 +66,7 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(237, 112);
+            label2.Location = new Point(224, 109);
             label2.Name = "label2";
             label2.Size = new Size(71, 20);
             label2.TabIndex = 2;
@@ -71,7 +75,7 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(237, 161);
+            label4.Location = new Point(224, 158);
             label4.Name = "label4";
             label4.Size = new Size(90, 20);
             label4.TabIndex = 4;
@@ -79,7 +83,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(374, 157);
+            button2.Location = new Point(645, 154);
             button2.Name = "button2";
             button2.Size = new Size(113, 29);
             button2.TabIndex = 7;
@@ -90,16 +94,17 @@
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(256, 61);
+            label3.Location = new Point(224, 61);
             label3.Name = "label3";
-            label3.Size = new Size(259, 20);
+            label3.Size = new Size(77, 20);
             label3.TabIndex = 8;
-            label3.Text = "Tu email : TomasPierro12@gmail.com";
+            label3.Text = "Tu email : ";
+            label3.Click += label3_Click;
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(237, 259);
+            label5.Location = new Point(224, 285);
             label5.Name = "label5";
             label5.Size = new Size(114, 20);
             label5.TabIndex = 9;
@@ -107,7 +112,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(374, 259);
+            button3.Location = new Point(359, 281);
             button3.Name = "button3";
             button3.Size = new Size(113, 29);
             button3.TabIndex = 10;
@@ -118,7 +123,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(388, 215);
+            label6.Location = new Point(373, 218);
             label6.Name = "label6";
             label6.Size = new Size(77, 20);
             label6.TabIndex = 11;
@@ -134,11 +139,52 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click;
             // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.Location = new Point(320, 61);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(309, 24);
+            listBox1.TabIndex = 13;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged_1;
+            // 
+            // button5
+            // 
+            button5.Location = new Point(28, 33);
+            button5.Name = "button5";
+            button5.Size = new Size(94, 29);
+            button5.TabIndex = 14;
+            button5.Text = "Ver Datos";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
+            // listBox2
+            // 
+            listBox2.FormattingEnabled = true;
+            listBox2.Location = new Point(320, 109);
+            listBox2.Name = "listBox2";
+            listBox2.Size = new Size(309, 24);
+            listBox2.TabIndex = 15;
+            listBox2.SelectedIndexChanged += listBox2_SelectedIndexChanged;
+            // 
+            // listBox3
+            // 
+            listBox3.FormattingEnabled = true;
+            listBox3.Location = new Point(320, 158);
+            listBox3.Name = "listBox3";
+            listBox3.Size = new Size(309, 24);
+            listBox3.TabIndex = 16;
+            listBox3.SelectedIndexChanged += listBox3_SelectedIndexChanged;
+            // 
             // Cuenta_usu
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(listBox3);
+            Controls.Add(listBox2);
+            Controls.Add(button5);
+            Controls.Add(listBox1);
             Controls.Add(button4);
             Controls.Add(label6);
             Controls.Add(button3);
@@ -168,5 +214,9 @@
         private Button button3;
         private Label label6;
         private Button button4;
+        private ListBox listBox1;
+        private Button button5;
+        private ListBox listBox2;
+        private ListBox listBox3;
     }
 }

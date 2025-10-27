@@ -57,7 +57,7 @@ namespace TPVentaOnlineFront
                 listBox1.Items.Clear();
                 foreach (Componente componente in context.Componentes)
                 {
-                    listBox1.Items.Add($"ID: {componente.Id} - {componente.Marca} {componente.Modelo}");
+                    listBox1.Items.Add($"ID: {componente.Id} {componente.Tipo} {componente.Marca} {componente.Modelo}");
                 }
 
             }

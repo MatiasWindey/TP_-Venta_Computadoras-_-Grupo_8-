@@ -36,7 +36,7 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
 
         private void button1_Click(object sender, EventArgs e)
         {
-            using(var context = new AplicationDbContex())
+            using (var context = new AplicationDbContex())
             {
                 foreach (var cliente in context.Clientes)
                 {
@@ -60,8 +60,15 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
                         return;
                     }
                 }
-           
+
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Cuenta_usu Cuenta = new Cuenta_usu();
+            Cuenta.Show();
+            this.Hide();
         }
     }
 }

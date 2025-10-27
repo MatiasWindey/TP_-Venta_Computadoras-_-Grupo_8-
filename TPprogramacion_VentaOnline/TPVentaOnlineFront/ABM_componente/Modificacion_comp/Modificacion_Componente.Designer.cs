@@ -46,6 +46,7 @@
             button3 = new Button();
             button4 = new Button();
             textBox6 = new TextBox();
+            button2 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -206,11 +207,22 @@
             textBox6.TabIndex = 25;
             textBox6.TextChanged += textBox6_TextChanged;
             // 
+            // button2
+            // 
+            button2.Location = new Point(617, 178);
+            button2.Name = "button2";
+            button2.Size = new Size(94, 29);
+            button2.TabIndex = 26;
+            button2.Text = "Cargar";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Modificacion_Componente
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1004, 548);
+            Controls.Add(button2);
             Controls.Add(textBox6);
             Controls.Add(button4);
             Controls.Add(button3);
@@ -255,5 +267,6 @@
         private Button button3;
         private Button button4;
         private TextBox textBox6;
+        private Button button2;
     }
 }

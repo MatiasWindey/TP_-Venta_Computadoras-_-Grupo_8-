@@ -19,7 +19,7 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
             InitializeComponent();
         }
 
-      
+
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -62,6 +62,13 @@ namespace TPVentaOnlineFront.ABM_cliente.Modificacion_Usuario
                     }
                 }
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Cuenta_usu cuenta_Usu = new Cuenta_usu();
+            cuenta_Usu.Show();
+            this.Hide();
         }
     }
 

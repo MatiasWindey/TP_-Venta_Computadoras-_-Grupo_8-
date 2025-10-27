@@ -36,11 +36,17 @@ namespace TPVentaOnlineFront.Reportes
             using (var context = new AplicationDbContex())
             {
                 int cantidadComponentes = 0;
+                if (context.Componentes.Count() == 0)
+                {
+                    MessageBox.Show("No hay componentes registrados.");
+                    return;
+                }
                 foreach (var componente in context.Componentes.ToList())
                 {
                     cantidadComponentes += componente.Stock;
                 }
                 listBox1.Items.Add($" La cantidad de componentes disponible es : {cantidadComponentes}");
+
             }
         }
     }

@@ -54,7 +54,7 @@ namespace TPVentaOnlineFront.Modificacion
 
 
             }
-            
+
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -95,8 +95,8 @@ namespace TPVentaOnlineFront.Modificacion
                 string modelo = textBox3.Text;
                 float precio = float.Parse(textBox4.Text);
                 int stock = int.Parse(textBox5.Text);
-                RepositoriesComponente.ModificarComponente(id,tipo,marca,modelo,precio,stock);
-                
+                RepositoriesComponente.ModificarComponente(id, tipo, marca, modelo, precio, stock);
+
             }
             MessageBox.Show("Componente Modificado con exito");
         }
@@ -104,6 +104,28 @@ namespace TPVentaOnlineFront.Modificacion
         private void Modificacion_Componente_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            using (var context = new AplicationDbContex())
+            {
+                int Id = int.Parse(textBox6.Text); 
+
+                foreach (Componente comp in context.Componentes)
+                {
+                    if (comp.Id == Id)
+                    {
+                        textBox1.Text = comp.Tipo;
+                        textBox2.Text = comp.Marca;
+                        textBox3.Text = comp.Modelo;
+                        textBox4.Text = comp.Precio.ToString();
+                        textBox5.Text = comp.Stock.ToString();
+
+                    }
+                }
+
+            }
         }
     }
 }

@@ -32,19 +32,23 @@ namespace TPVentaOnlineFront.ABM_cliente.Alta_Usuario
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string nombre = textBox1.Text;
+            string correo = textBox1.Text;
             string contrasenia = textBox2.Text;
             using (var context = new AplicationDbContex())
             {
-                var CuentaInicio = context.Clientes.FirstOrDefault(c => c.Nombre == nombre);
+                var CuentaInicio = context.Clientes.FirstOrDefault(c => c.Correo == correo);
                 {
-                    if (CuentaInicio.Nombre == nombre && CuentaInicio.Contrasenia == contrasenia)
+                    if (CuentaInicio.Correo == correo && CuentaInicio.Contrasenia == contrasenia)
                     { 
                         Cuenta_usu Perfil = new Cuenta_usu();
+
+                        Perfil.CorreoUsuario = correo;
 
                         Perfil.Show();
 
                         this.Hide();
+
+                        
                     }
                     else
                     {

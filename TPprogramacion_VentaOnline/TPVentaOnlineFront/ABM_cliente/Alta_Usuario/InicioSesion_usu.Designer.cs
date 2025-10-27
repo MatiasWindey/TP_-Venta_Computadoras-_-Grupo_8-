@@ -53,9 +53,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(147, 77);
             label2.Name = "label2";
-            label2.Size = new Size(119, 20);
+            label2.Size = new Size(109, 20);
             label2.TabIndex = 1;
-            label2.Text = "Ingrese Nombre:";
+            label2.Text = "Ingrese Correo:";
             // 
             // label3
             // 

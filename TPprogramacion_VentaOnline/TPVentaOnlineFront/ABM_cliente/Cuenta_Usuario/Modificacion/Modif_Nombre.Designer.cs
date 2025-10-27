@@ -36,6 +36,7 @@
             textBox1 = new TextBox();
             label2 = new Label();
             label1 = new Label();
+            button2 = new Button();
             SuspendLayout();
             // 
             // textBox3
@@ -108,11 +109,22 @@
             label1.TabIndex = 8;
             label1.Text = "Ingrese Nombre Actual :";
             // 
+            // button2
+            // 
+            button2.Location = new Point(12, 409);
+            button2.Name = "button2";
+            button2.Size = new Size(94, 29);
+            button2.TabIndex = 16;
+            button2.Text = "Volver";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Modif_Nombre
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
             Controls.Add(textBox3);
             Controls.Add(label4);
             Controls.Add(label3);
@@ -137,5 +149,6 @@
         private TextBox textBox1;
         private Label label2;
         private Label label1;
+        private Button button2;
     }
 }
